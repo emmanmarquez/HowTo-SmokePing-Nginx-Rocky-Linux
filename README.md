@@ -313,7 +313,8 @@ systemctl enable fcgiwrap@nginx.socket
 
 systemctl start fcgiwrap@nginx.socket
 
-systemctl restart smokeping.service# Smokeping Web Installation (Rocky Linux 8)
+systemctl restart smokeping.service
+# Smokeping Web Installation (Rocky Linux 8)
 
 ## Nginx Config
 
